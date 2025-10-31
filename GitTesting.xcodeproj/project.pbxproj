@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		081791732EB4801500692F88 /* Git-Test1-1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 081791722EB4801500692F88 /* Git-Test1-1.swift */; };
+		081791A12EB4819400692F88 /* Git-Test1-2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 081791A02EB4819400692F88 /* Git-Test1-2.swift */; };
+		081791A32EB4819B00692F88 /* Git-Test1-3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 081791A22EB4819B00692F88 /* Git-Test1-3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +31,8 @@
 
 /* Begin PBXFileReference section */
 		081791722EB4801500692F88 /* Git-Test1-1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Git-Test1-1.swift"; sourceTree = "<group>"; };
+		081791A02EB4819400692F88 /* Git-Test1-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Git-Test1-2.swift"; sourceTree = "<group>"; };
+		081791A22EB4819B00692F88 /* Git-Test1-3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Git-Test1-3.swift"; sourceTree = "<group>"; };
 		C3D5B7E62CF4176E00B92E71 /* GitTesting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTesting.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3D5B7FC2CF4176F00B92E71 /* GitTestingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3D5B8062CF4176F00B92E71 /* GitTestingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -94,6 +98,8 @@
 			isa = PBXGroup;
 			children = (
 				081791722EB4801500692F88 /* Git-Test1-1.swift */,
+				081791A02EB4819400692F88 /* Git-Test1-2.swift */,
+				081791A22EB4819B00692F88 /* Git-Test1-3.swift */,
 			);
 			path = GitTest1;
 			sourceTree = "<group>";
@@ -263,7 +269,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				081791A32EB4819B00692F88 /* Git-Test1-3.swift in Sources */,
 				081791732EB4801500692F88 /* Git-Test1-1.swift in Sources */,
+				081791A12EB4819400692F88 /* Git-Test1-2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
